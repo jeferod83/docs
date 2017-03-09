@@ -20,7 +20,7 @@ de configuração por padrão, mas, se necessário, você pode acrescenar arquiv
 configuração adicionais e carregá-los no "bootstrap" da aplicação.
 O :php:class:`Cake\\Core\\Configure` é utilizado como uma configuração global, e
 classes como ``Cache`` disponibilizam os métodos ``config()``, responsáveis por
-torkar as configurações simples e transparentes.
+tornar as configurações simples e transparentes.
 
 Carregando Arquivos de Configuração Adicionais
 ----------------------------------------------
