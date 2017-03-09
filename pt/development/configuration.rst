@@ -1,7 +1,7 @@
 Configuração
 #############
 
-Enquanto convençes removem a necessidade de configurar todo o CakePHP, voc ainda
+Enquanto convenções removem a necessidade de configurar todo o CakePHP, voc ainda
 precisará configurar algumas coisas, como as credenciais do seu banco de dados.
 
 Adicionalmente, existem opçes de configuração opcionais que te permitem trocar
