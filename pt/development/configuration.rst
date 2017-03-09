@@ -4,8 +4,8 @@ Configuração
 Enquanto convenções removem a necessidade de configurar todo o CakePHP, voc ainda
 precisará configurar algumas coisas, como as credenciais do seu banco de dados.
 
-Adicionalmente, existem opçes de configuração opcionais que te permitem trocar
-valores padrão e implementações por outras específicas para sua aplicação.
+Adicionalmente, existem opções de configuração opcionais que permitem trocar
+valores padrões e implementações por outras específicas para sua aplicação.
 
 .. index:: app.php, app.php.default
 
